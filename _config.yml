@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: jekyll-theme-slate
+remote_theme: minima
